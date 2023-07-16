@@ -1,0 +1,11 @@
+version: "3"
+
+tasks:
+  serve:
+    cmds:
+      - clear
+      - dart compile exe -o bin/dartter bin/dartter.dart
+      - ./bin/dartter
+    sources:
+      - ./bin/**/*.dart
+      - ./lib/**/*.dart
