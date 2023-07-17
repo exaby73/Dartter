@@ -1,8 +1,8 @@
 import 'package:dartseid/dartseid.dart';
 import 'package:dartter/common/context/is_auth_context.dart';
 import 'package:dartter/common/hooks/auth_hook.dart';
-import 'package:dartter/common/modules/home/services/home_service.dart';
 import 'package:dartter/core/injection.dart';
+import 'package:dartter/modules/home/services/home_service.dart';
 import 'package:injectable/injectable.dart';
 
 @singleton

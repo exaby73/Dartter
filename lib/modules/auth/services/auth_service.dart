@@ -4,6 +4,6 @@ import 'package:injectable/injectable.dart';
 @singleton
 class AuthService {
   Future<String> index() async {
-    return view('auth', {'title': 'Login or Register!!!'});
+    return view('auth', {'title': 'Login or Register'});
   }
 }

@@ -1,5 +1,5 @@
 import 'package:dartseid/dartseid.dart';
-import 'package:dartter/common/modules/auth/services/auth_service.dart';
+import 'package:dartter/modules/auth/services/auth_service.dart';
 import 'package:injectable/injectable.dart';
 
 @singleton
