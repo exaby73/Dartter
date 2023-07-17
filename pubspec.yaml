@@ -1,5 +1,5 @@
 name: dartter
-description: A sample command-line application.
+description: Sample app
 version: 1.0.0
 
 environment:
@@ -8,7 +8,7 @@ environment:
 dependencies:
   dargon2: ^3.2.1
   dart_jsonwebtoken: ^2.8.2
-  dartseid: ^0.0.9+2
+  dartseid: ^0.0.10
   dartseid_config: ^0.0.2
   dartseid_views: ^0.0.4
   envied: ^0.3.0+3
